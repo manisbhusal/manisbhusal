@@ -2,7 +2,7 @@
 ---
 
 ##  GitHub Stats
-![manisbhusal's GitHub stats](https://readme-two-sand.vercel.app/api?username=manisbhusdal&show_icons=false&hide_title=true&count_private=true&theme=dark&hide_border=true)
+![manisbhusal's GitHub stats](https://readme-two-sand.vercel.app/api?username=manisbhusal&show_icons=false&hide_title=true&count_private=true&theme=dark&hide_border=true)
 
   
 - [![Stargazers](https://img.shields.io/github/stars/manisbhusal?style=for-the-badge&logo=github)](https://github.com/manisbhusal?tab=repositories)
