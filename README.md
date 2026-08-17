@@ -1,78 +1,72 @@
 # 👋 Hey, I'm Manish Bhusal
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=30&duration=2500&pause=1000&color=4CAF50&center=true&vCenter=true&width=900&lines=Professional+Bug+Creator+%F0%9F%90%9B;Ctrl%2BC+%E2%86%92+Ctrl%2BV+Engineer+%F0%9F%98%8E;99.1%25+Pure+Spaghetti+Code+%F0%9F%8D%9D;Currently+Cooking+Random+Projects+%F0%9F%94%A5;Breaking+Things+Since+2022+%F0%9F%92%BB" alt="Typing Animation" />
+  <img src="https://avatars.githubusercontent.com/u/257074378?v=4" width="120" alt="Manish Bhusal"/>
+</p>
+
+<p align="center">
+  <strong>Professional Bug Creator 🐛</strong><br>
+  <em>Cooking code • Serving bugs • Breaking things professionally</em>
 </p>
 
 <p align="center">
   <a href="https://github.com/manisbhusal">
-    <img src="https://img.shields.io/github/followers/manisbhusal?style=for-the-badge&logo=github&logoColor=white&color=007acc" alt="Followers"/>
+    <img src="https://img.shields.io/badge/GitHub-Manish%20Bhusal-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/manisbhusal?tab=followers">
+    <img src="https://img.shields.io/github/followers/manisbhusal?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
   </a>
   <a href="https://github.com/manisbhusal?tab=repositories">
-    <img src="https://img.shields.io/github/stars/manisbhusal?style=for-the-badge&logo=github" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/manisbhusal?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=manisbhusal&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manisbhusal&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 ```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  👨‍💻 Developer                               │
-│  📍 Nepal 🇳🇵                                │
-│  🎓 Computer Science Student                 │
-│  🔥 Building random things on the internet   │
-│  🐛 Creating bugs professionally             │
-│  🍝 Writing questionable spaghetti code      │
-│                                              │
-╰──────────────────────────────────────────────╯
+╭────────────────────────────────────────────╮
+│                                            │
+│  👨‍💻 Developer                             │
+│  📍 Nepal 🇳🇵                              │
+│  🎓 Computer Science Student               │
+│  🌐 Web & Software Development             │
+│  🔨 Building random projects                │
+│  🐛 Creating bugs professionally            │
+│  🍝 99.1% pure spaghetti code              │
+│                                            │
+╰────────────────────────────────────────────╯
 ```
 
-I'm a developer who enjoys building random projects, experimenting with new technologies, and occasionally wondering:
+I'm a developer who enjoys turning random ideas into actual projects.
 
-> **"Why did it work yesterday?"**
+I like experimenting with web technologies, APIs, automation, anime-related projects, and basically anything that makes me say:
 
-I like turning random ideas into actual projects — especially web apps, APIs, anime-related projects, automation tools, and whatever else I happen to be interested in that week.
+> **"Wait... I think I can build that."**
 
-### 🚀 Currently
+Then I build it.
+
+Then it breaks.
+
+Then I fix it.
+
+Then I break it again.
+
+---
+
+## 🚀 What I'm Doing
 
 * 🔨 Building random projects
-* 🌐 Experimenting with web technologies
+* 🌐 Experimenting with modern web technologies
 * 🧪 Learning by breaking things
 * 📚 Improving my development skills
-* 🐛 Hunting bugs (sometimes creating them first)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://readme-two-sand.vercel.app/api?username=manisbhusal&show_icons=true&hide_title=true&count_private=true&theme=dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisbhusal&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manisbhusal&theme=dark&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manisbhusal&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manisbhusal&theme=github-dark&hide_border=true&area=true" />
-</p>
+* 🔌 Working with APIs and integrations
+* 🐛 Hunting bugs I probably created myself
 
 ---
 
@@ -81,74 +75,92 @@ I like turning random ideas into actual projects — especially web apps, APIs, 
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" alt="Languages"/>
 </p>
 
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,tailwind" alt="Web Technologies"/>
 </p>
 
-### 🗄️ Databases & Backend
+### 🗄️ Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,mysql" alt="Backend Technologies"/>
 </p>
 
 ### ⚙️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,vercel,cloudflare,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,vercel,cloudflare,docker" alt="Tools"/>
 </p>
 
 ---
 
-# 🚀 Things I Build
+# 📊 GitHub Stats
 
-```text
-Web Apps        ███████████████████░ 95%
-APIs            █████████████████░░░ 85%
-Random Ideas    ████████████████████ 100%
-Debugging       ███████████░░░░░░░░░ 55%
-Documentation   ███████░░░░░░░░░░░░░ 35%
-Actually Reading
-the Documentation █████░░░░░░░░░░░░░ 25%
-```
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/manisbhusal?style=for-the-badge&label=Commits%20This%20Year" alt="Commits"/>
+  <img src="https://img.shields.io/github/issues/manisbhusal?style=for-the-badge&label=Open%20Issues" alt="Issues"/>
+  <img src="https://img.shields.io/github/issues-pr/manisbhusal?style=for-the-badge&label=Open%20PRs" alt="Pull Requests"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/repos/manisbhusal?style=for-the-badge&label=Public%20Repositories" alt="Repositories"/>
+  <img src="https://img.shields.io/github/created-at/manisbhusal?style=for-the-badge&label=GitHub%20Since" alt="GitHub Since"/>
+</p>
 
-# ⭐ Featured Projects
-
-### 🎌 AniZone
-
-A web-based anime streaming/discovery project focused on providing a clean anime experience.
-
-**Tech:** `React` `TypeScript` `Vite` `APIs`
-
-🔗 [Visit Project](https://anizone.xyz)
+<p align="center">
+  <a href="https://github.com/manisbhusal?tab=overview">
+    <img src="https://img.shields.io/badge/View%20Full%20GitHub%20Activity-181717?style=for-the-badge&logo=github" alt="GitHub Activity"/>
+  </a>
+</p>
 
 ---
 
-### 🎬 AniHubz
+# 📈 Contribution Activity
 
-An anime-focused web application experimenting with anime discovery, tracking, and streaming-related features.
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=manisbhusal&theme=github-dark&hide_border=true&area=true"
+    alt="Manish Bhusal's GitHub Activity Graph"
+  />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🎌 AniZone
+
+A web-based anime platform focused on providing a clean and simple anime experience.
+
+**Tech:** `Web` `TypeScript` `APIs`
+
+🌐 **[Visit AniZone](https://anizone.xyz)**
+
+---
+
+## 🎬 AniHubz
+
+An anime-focused web project experimenting with anime discovery, tracking, and related features.
 
 **Tech:** `React` `TypeScript` `AniList API`
 
-🔗 [Visit Project](https://anihubz.vercel.app)
+🌐 **[Visit AniHubz](https://anihubz.vercel.app)**
 
 ---
 
-### 📅 Nepali Calendar
+## 📅 Nepali Calendar
 
-A simple web application for displaying the Nepali calendar with accurate dates and weekdays.
+A web application for displaying the Nepali calendar with accurate dates and weekdays.
 
 **Tech:** `Python` `Flask` `HTML` `CSS`
 
 ---
 
-### 🖐️ Gesture Based Controller
+## 🖐️ Gesture Based Controller
 
 A computer-vision project that uses hand gestures to control a computer.
 
@@ -156,87 +168,82 @@ A computer-vision project that uses hand gestures to control a computer.
 
 ---
 
-# 🧠 What I'm Learning
+# 📊 My Developer Stats
 
 ```text
-Frontend Development      ███████████████░░░░░ 75%
-Backend Development       █████████████░░░░░░░ 65%
-APIs & Integrations       ██████████████░░░░░░ 70%
-Linux                      ████████████░░░░░░░░ 60%
-Cloud & Deployment         ███████████░░░░░░░░░ 55%
-System Design              ███████░░░░░░░░░░░░░ 35%
-Writing Documentation      █████░░░░░░░░░░░░░░░ 25%
+Web Development       ███████████████████░  95%
+Random Projects       ████████████████████ 100%
+API Integration       ████████████████░░░░  80%
+Backend Development   ██████████████░░░░░░  70%
+Linux                 █████████████░░░░░░░  65%
+Debugging             ███████████░░░░░░░░░  55%
+Documentation         ███████░░░░░░░░░░░░░  35%
+Reading Documentation █████░░░░░░░░░░░░░░░  25%
+Touching Grass        ███░░░░░░░░░░░░░░░░░  15%
 ```
 
 ---
 
-# 💻 My Developer Philosophy
+# 🧠 Currently Learning
 
-> **If it works, don't touch it.**
->
-> If you touch it and it breaks,
->
-> **call it a feature.**
+* ⚛️ Modern frontend architecture
+* 🖥️ Backend development
+* 🔌 API design & integrations
+* ☁️ Cloud deployment
+* 🐧 Linux
+* 🏗️ System design
+* 🔐 Authentication & APIs
+* ⚡ Web performance
+* 🧹 Writing less terrible code
 
 ---
 
-# 🐛 Debugging Workflow
+# 🐛 My Development Process
 
-```mermaid
-flowchart LR
-    A[Write Code] --> B[Run Code]
-    B --> C{Does it Work?}
-    C -->|Yes| D[Don't Touch Anything]
-    C -->|No| E[Google]
-    E --> F[Stack Overflow]
-    F --> G[Change Random Thing]
-    G --> B
-    D --> H[Push to GitHub]
+```text
+        ┌─────────────┐
+        │   Idea 💡   │
+        └──────┬──────┘
+               ↓
+        ┌─────────────┐
+        │ Write Code  │
+        └──────┬──────┘
+               ↓
+        ┌─────────────┐
+        │ Run Project │
+        └──────┬──────┘
+               ↓
+          Does it work?
+          ↙          ↘
+       YES            NO
+        ↓              ↓
+  DON'T TOUCH IT   Google 🔎
+        ↓              ↓
+        ↓         Stack Overflow
+        ↓              ↓
+        ↓       Change random thing
+        ↓              ↓
+        └──────→ Works ←┘
+               ↓
+          Push to GitHub
+               ↓
+          Create another bug
 ```
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manisbhusal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manisbhusal/manisbhusal/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
-> If the snake isn't moving, I probably forgot to configure the GitHub Action. 🐍💀
 
 ---
 
 # 🎯 2026 Goals
 
 * [ ] Build more useful open-source projects
-* [ ] Improve my backend development skills
-* [ ] Learn more about system design
+* [ ] Improve backend development
+* [ ] Learn system design
 * [ ] Contribute to open source
 * [ ] Build something people actually use
-* [ ] Write better documentation
+* [ ] Improve documentation
+* [ ] Write cleaner code
+* [ ] Learn more about cloud infrastructure
 * [ ] Reduce spaghetti code from `99.1%` to `98.9%`
-* [ ] Become slightly less dependent on Google
-* [ ] Stop saying "I'll fix it later"
-
----
-
-# 🎮 Outside of Code
-
-```text
-Anime        ████████████████████ 100%
-Coding       ███████████████████░ 95%
-Gaming       ███████████████░░░░░ 75%
-Sleep        ███████░░░░░░░░░░░░░ 35%
-Touching Grass ███░░░░░░░░░░░░░░░ 15%
-```
+* [ ] Stop saying **"I'll fix it later"**
 
 ---
 
@@ -248,45 +255,50 @@ If you find my projects useful — or simply feel bad for the bugs I've created 
 
 <p align="center">
   <a href="https://cr8.rs/kiwiixen">
-    <img src="https://img.shields.io/badge/Sponsor%20via-cr8.rs-00D632?style=for-the-badge&logo=kofi&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Sponsor%20via-cr8.rs-00D632?style=for-the-badge&logo=kofi&logoColor=white" alt="Sponsor"/>
   </a>
   <a href="https://cr8.rs/kiwiixen">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Treat-cr8.rs-4CAF50?style=for-the-badge&logo=buymeacoffee&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Treat-cr8.rs-4CAF50?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Treat"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://cr8.rs/kiwiixen">
-    ☕ <b>Support me here</b>
-  </a>
+  ☕ <strong><a href="https://cr8.rs/kiwiixen">Support me here</a></strong>
 </p>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/manisbhusal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-# 💬 Random Developer Quote
+# 💬 Developer Wisdom
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+> **If it works, don't touch it.**
+
+> If you touch it and it breaks,
+> **call it a feature.**
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! 👋</b>
-  <br/>
+  <strong>Thanks for visiting my profile! 👋</strong>
+  <br><br>
   <sub>Now go check my repositories before I introduce another bug. 🐛</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <a href="https://github.com/manisbhusal?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>© 2026 Manish Bhusal • Built with Markdown, caffeine and questionable decisions.</sub>
 </p>
