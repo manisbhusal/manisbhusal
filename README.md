@@ -33,14 +33,15 @@
 ╭────────────────────────────────────────────╮
 │                                            │
 │  👨‍💻 Developer                             │
-│  📍 Nepal 🇳🇵                              │
+│  📍 Nepal 🇳🇵                               │
 │  🎓 Computer Science Student               │
 │  🌐 Web & Software Development             │
-│  🔨 Building random projects                │
-│  🐛 Creating bugs professionally            │
+│  🔨 Building random projects               │
+│  🐛 Creating bugs professionally           │
 │  🍝 99.1% pure spaghetti code              │
 │                                            │
 ╰────────────────────────────────────────────╯
+
 ```
 
 I'm a developer who enjoys turning random ideas into actual projects.
@@ -74,59 +75,19 @@ Then I break it again.
 
 ### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" alt="Languages"/>
-</p>
-
 ### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,tailwind" alt="Web Technologies"/>
-</p>
 
 ### 🗄️ Backend & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,mysql" alt="Backend Technologies"/>
-</p>
-
 ### ⚙️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,vercel,cloudflare,docker" alt="Tools"/>
-</p>
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/manisbhusal?style=for-the-badge&label=Commits%20This%20Year" alt="Commits"/>
-  <img src="https://img.shields.io/github/issues/manisbhusal?style=for-the-badge&label=Open%20Issues" alt="Issues"/>
-  <img src="https://img.shields.io/github/issues-pr/manisbhusal?style=for-the-badge&label=Open%20PRs" alt="Pull Requests"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/repos/manisbhusal?style=for-the-badge&label=Public%20Repositories" alt="Repositories"/>
-  <img src="https://img.shields.io/github/created-at/manisbhusal?style=for-the-badge&label=GitHub%20Since" alt="GitHub Since"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/manisbhusal?tab=overview">
-    <img src="https://img.shields.io/badge/View%20Full%20GitHub%20Activity-181717?style=for-the-badge&logo=github" alt="GitHub Activity"/>
-  </a>
-</p>
-
 ---
 
 # 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=manisbhusal&theme=github-dark&hide_border=true&area=true"
-    alt="Manish Bhusal's GitHub Activity Graph"
-  />
-</p>
 
 ---
 
@@ -180,6 +141,7 @@ Debugging             ███████████░░░░░░░░�
 Documentation         ███████░░░░░░░░░░░░░  35%
 Reading Documentation █████░░░░░░░░░░░░░░░  25%
 Touching Grass        ███░░░░░░░░░░░░░░░░░  15%
+
 ```
 
 ---
@@ -214,20 +176,21 @@ Touching Grass        ███░░░░░░░░░░░░░░░░�
         └──────┬──────┘
                ↓
           Does it work?
-          ↙          ↘
-       YES            NO
-        ↓              ↓
+          ↙         ↘
+        YES          NO
+         ↓            ↓
   DON'T TOUCH IT   Google 🔎
-        ↓              ↓
-        ↓         Stack Overflow
-        ↓              ↓
-        ↓       Change random thing
-        ↓              ↓
-        └──────→ Works ←┘
+         ↓            ↓
+         ↓       Stack Overflow
+         ↓            ↓
+         ↓     Change random thing
+         ↓            ↓
+         └──────→ Works ←┘
                ↓
           Push to GitHub
                ↓
           Create another bug
+
 ```
 
 ---
@@ -253,28 +216,9 @@ Touching Grass        ███░░░░░░░░░░░░░░░░�
 
 If you find my projects useful — or simply feel bad for the bugs I've created — you can support my work.
 
-<p align="center">
-  <a href="https://cr8.rs/kiwiixen">
-    <img src="https://img.shields.io/badge/Sponsor%20via-cr8.rs-00D632?style=for-the-badge&logo=kofi&logoColor=white" alt="Sponsor"/>
-  </a>
-  <a href="https://cr8.rs/kiwiixen">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Treat-cr8.rs-4CAF50?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Treat"/>
-  </a>
-</p>
-
-<p align="center">
-  ☕ <strong><a href="https://cr8.rs/kiwiixen">Support me here</a></strong>
-</p>
-
 ---
 
 # 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/manisbhusal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
@@ -286,19 +230,3 @@ If you find my projects useful — or simply feel bad for the bugs I've created 
 > **call it a feature.**
 
 ---
-
-<p align="center">
-  <strong>Thanks for visiting my profile! 👋</strong>
-  <br><br>
-  <sub>Now go check my repositories before I introduce another bug. 🐛</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/manisbhusal?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>© 2026 Manish Bhusal • Built with Markdown, caffeine and questionable decisions.</sub>
-</p>
